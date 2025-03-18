@@ -1,0 +1,26 @@
+dt {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+img {
+    width: 300px;
+    float: left;
+    margin: 15px;
+    
+}
+
+body {
+    background-image: url(../gambar/logo\ sekolah.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1000px;
+    
+
+    
+}
+
+.clear  {
+    clear: left;
+}
